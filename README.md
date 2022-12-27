@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on **Movie App**
-- 🌱 I’m currently learning **Debouncing in React**
+- 🌱 I’m currently learning **Use Params**
 - 👯 I’m looking to collaborate on **openSource project**
 - 💬 Ask me about **Flutter and React**
 - 📫 How to reach me smartysaad59@gmail.com
