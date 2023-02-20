@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on **MultiPage React App**
-- 🌱 I’m currently learning **CSS from Styled Component**
+- 🔭 I’m currently working on **Moody Flutter App**
+- 🌱 I’m currently learning **Flutter things**
 - 👯 I’m looking to collaborate on **openSource project**
 - 💬 Ask me about **Flutter and React**
 - 📫 How to reach me smartysaad59@gmail.com
