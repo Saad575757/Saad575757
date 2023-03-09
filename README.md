@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on **Moody Flutter App**
-- 🌱 I’m currently learning **Flutter things**
+- 🔭 I’m currently working on **Multipage React App**
+- 🌱 I’m currently learning **Usereducer Hook**
 - 👯 I’m looking to collaborate on **openSource project**
 - 💬 Ask me about **Flutter and React**
 - 📫 How to reach me smartysaad59@gmail.com
